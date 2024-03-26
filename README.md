@@ -6,7 +6,7 @@ Welcome to RPS_BATTLEARENA - the Rock, Paper, Scissors game!
 
 RPS_BATTLEARENA is a simple yet engaging game where players compete against the computer by choosing between rock, paper, or scissors. The game follows the classic rules: rock beats scissors, scissors beat paper, and paper beats rock. The goal is to outsmart your opponent and win as many rounds as possible!
 
-<a href="https://ibb.co/p0b9B9h"><img src="https://i.ibb.co/6nrf7fX/rps_battleArena.png" alt="rps_battleArena" border="0"></a>
+<a href="rps-battle-arena-two.vercel.app"><img src="https://i.ibb.co/6nrf7fX/rps_battleArena.png" alt="rps_battleArena" border="0"></a>
 
 ## Features
 
